@@ -1,0 +1,9 @@
+# Your login, your posts and screenshots of your feed never leave your computer
+.browser-profile/
+.venv/
+debug/
+posts/*
+!posts/EXAMPLE 2099-01-01 09.00/
+__pycache__/
+.pytest_cache/
+*.tmp

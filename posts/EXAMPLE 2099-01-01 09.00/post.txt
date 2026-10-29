@@ -1,0 +1,6 @@
+This is an example post. It is never booked: its folder name starts with EXAMPLE.
+
+To make a real post, copy this folder, rename the copy to the time you want it to go out,
+for example "2026-11-03 08.30", and put your words in post.txt.
+
+Add a picture, a PDF or a video to the folder if you want one.
